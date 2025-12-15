@@ -1,17 +1,13 @@
-[[Home]](https://emine-yildirim.github.io/) 
-[[Research]](https://emine-yildirim.github.io/Research.html) 
-[[Teaching]](https://emine-yildirim.github.io/teaching.html)
-[[Blog]](http://yildirimemine.tumblr.com/)
+[[Home]](https://asigalou.github.io/) 
+[[Research]](https://asigalou.github.io/Research.html) 
 
 
-![](Pictures/head-emine.jpeg)[Photo Credit: Dan Aspel]
 
-Hi! I am currently a researcher in [the Quantum Groups and Cluster Algebras group](https://icms.bg/research-groups/quantum-groups-and-cluster-algebras/) at [the International Center for Mathematical Sciences (ICMS) - Sofia](https://icms.bg/), hosted by the Institute of Mathematics and Informatics at the Bulgarian Academy of Sciences (IMI–BAS) in Sofia. 
+Hi there!
 
-I completed my PhD at the [LACIM](http://lacim.uqam.ca/) with [Hugh Thomas](https://uqam.academia.edu/HughThomas) in 2018. I was an [INI](https://www.newton.ac.uk)-Simons Postdoctoral Research Fellow at the [DPMMS](https://www.dpmms.cam.ac.uk/), University of Cambridge in 2021. Here is a [link](https://www.newton.ac.uk/media/podcasts/post/meet-the-simons-postdoctoral-fellows-mini-series-1-dr-emine-yildirim/) to an episode of Living Proof podcast with Dan Aspel about being in INI/Cambridge as an early career researcher. Before Cambridge, I was a Coleman Research Fellow at the [Department of Mathematics and Statistics](https://www.queensu.ca/mathstat/), Queen's University and also a research fellow in the [School of Mathematics](https://eps.leeds.ac.uk/maths) at the University of Leeds.
+I'm a postdoctoral researcher at the [Microbial Systems Biology Lab](https://msb-lab.github.io/en/), part of the [Spanish National Research Council (CSIC)](https://www.csic.es/en) that is located at the [Dairy Research Institute of Asturias (IPLA)](https://www.ipla.csic.es/en/inicio-en/) in Oviedo, Spain.
 
-I was one of the organisers of the [CLAN (Clusters and their Applications in the North)](https://clan-clusterstructures.github.io) and [Leeds Algebra Seminar](https://emine-yildirim.github.io/Leeds_Seminars_2023-24.html).
 
-I was one of the organizers of [Advances in Representation Theory of Algebras IX](https://sites.google.com/view/arta9/home) at Queen's University in 2023 and the [Virtual ARTA 2021](https://sites.google.com/view/arta2021/). I co-organized a [seminar series](https://www.newton.ac.uk/event/car/) at the Isaac Newton Institute under the Cluster algebras and representation theory (CAR) program.
+I completed my PhD in Statistics at the [University of Leeds]([http://lacim.uqam.ca/](https://eps.leeds.ac.uk/faculty-engineering-physical-sciences/pgr/8778/anna-sigalou)) with [Richard Mann]([https://uqam.academia.edu/HughThomas](https://eps.leeds.ac.uk/staff/4057/professor-richard-mann)) in 2024. Before that I completed an MSc in Applied Mathematical Sciences at Heriot-Watt, and an MEng in Mechanical Engineering at the National Technical Univbersity of Athens (NTUA).
 
-Merhaba! Depremden etkilenen üniversite öğrencilerimize destek programına lütfen göz atın: [Matematik Dayanışma Platformu](https://sites.google.com/view/matematikdayanisma)
+I do mathematical modelling of physical systems, and I have a soft spot for interactions. Right now, I'm working on understanding evolution in light of epistatic interactions. I am also interested in social interactions and ways of using social information.
