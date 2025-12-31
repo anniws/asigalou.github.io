@@ -1,7 +1,7 @@
 [[Home]](https://anniws.github.io/) 
 [[Research]](https://anniws.github.io/Research.html) 
 
-![](Pictures/annapic.jpeg)
+![](leeds_pic.jpg)
 
 Hi there! I am postdoc at the [Microbial Systems Biology Lab](https://msb-lab.github.io/en/) which is hosted in [IPLA](https://www.ipla.csic.es/en/inicio-en/) (part of [CSIC](https://www.csic.es/en)), in Spain Oviedo. 
 
